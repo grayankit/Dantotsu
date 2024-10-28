@@ -4,6 +4,6 @@ dependencyResolutionManagement {
         mavenCentral()
         maven("https://jitpack.io")
     }
-}
+}     
 rootProject.name = "Dantotsu"
 include(":app")
